@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="pt-bt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Site de Roupa Feminina</title>
+    <link rel="stylesheet" href="index.css">
+    
+</head>
+<body>
+  
+  <div class=" banner">
+
+    <div class="Container">
+      <div class="navbar">
+        <ul>
+          <img src="assets/imagem pro site2.jpg" width="155px">
+          
+      </ul>
+      <ul>
+        <h3>
+            Sonhos dos Sonhoss
+        </h3>
+    </ul>
+        <nav>
+        <ul id="MenuItens">
+            <li><a href="" title="">Inicio</a></li>
+            <li><a href="" title="">Produtos</a></li>
+            <li><a href="" title="">Contato</a></li>
+            <li><a href="" title="">Minha Conta</a></li>
+        </ul>
+    </nav>
+    
+    
+    
+    <div class="linha">
+    <div class="col-2">
+      
+      
+    </div>
+    
+    <div class="col-2">
+    
+    </div>
+  
+    </div>
+
+      </div>
+  
+    </div>
+  </div>
+  
+
+<div class="corpo-categoria">
+
+  <h2>Produtos em Destaque</h2>
+
+<div class="linha">
+
+<div class="col-4">
+  <img src="assets/PIJAMA 02 SITE.jpeg">
+  <h4>Pijama Serena</h4>
+          <h2>Inverno</h2>
+          <span>R$ 100,00</span>
+          <button>Comprar</button>
+</div>
+<div class="col-4">
+  <img src="assets/PIJAMA 05 SITE.jpeg">
+  <h4>Pijama Solista</h4>
+          <h2>Verão</h2>
+          <span>R$ 70,00</span>
+          <button>Comprar</button>
+</div>
+<div class="col-4">
+  <img src="assets/PIJAMA 03 SITE.jpeg">
+  <h4>Pijama Sun</h4>
+          <h2>Verão</h2>
+          <span>R$ 50,00</span>
+          <button>Comprar</button>
+</div>
+<div class="col-4">
+  <img src="assets/PIJAMA 06 SITE.jpeg">
+  <h4>Pijama Corsel</h4>
+          <h2>Verão</h2>
+          <span>R$ 50,00</span>
+          <button>Comprar</button>
+</div>
+<div class="col-4">
+  <img src="assets/PIJAMA 07 SITE.jpeg">
+  <h4>Pijama Floco</h4>
+          <h2>Inverno</h2>
+          <span>R$ 70,00</span>
+          <button>Comprar</button>
+</div>
+<div class="col-4">
+  <img src="assets/PIJAMA 08 SITE.jpeg">
+  <h4>Pijama Rose</h4>
+          <h2>Verão</h2>
+          <span>R$ 110,00</span>
+          <button>Comprar</button>
+</div>
+<div class="col-4">
+  <img src="assets/PIJAMA 09 SITE.jpeg">
+  <h4>Pijama  Sunflower</h4>
+          <h2>Verão</h2>
+          <span>R$ 40,00</span>
+          <button>Comprar</button>
+</div>
+<div class="col-4">
+  <img src="assets/PIJAMA 04F SITE.jpeg">
+  <h4>Pijama Overnight </h4>
+          <h2>Verão</h2>
+          <span>R$ 80,00</span>
+          <button>Comprar</button>
+</div>
+
+</div>
+
+
+</div>
+    
+
+</div>
+
+
+    </div>
+
+
+
+    <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+    <script scr="script.js"></script>
+</body>
+</html>
